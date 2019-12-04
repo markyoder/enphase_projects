@@ -1,0 +1,6 @@
+# EnPhase data file. Do not upload to github!
+# you can add your api key below and rename this to enphase_ids.csv
+# and it should just work...
+# example:
+# api_key	abcd38945fg
+api_key	{your id here...}
